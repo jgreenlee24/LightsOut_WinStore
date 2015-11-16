@@ -1,0 +1,74 @@
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\bin\Debug\App.xbf
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\bin\Debug\AboutPage.xbf
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\bin\Debug\MainPage.xbf
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\bin\Debug\LightsOut_WinStore.xr.xml
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\bin\Debug\LightsOut_WinStore.exe
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\bin\Debug\LightsOut_WinStore.pdb
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\bin\Debug\resources.pri
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\bin\Debug\AppxManifest.xml
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\bin\Debug\LightsOut_WinStore.build.appxrecipe
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\App.g.i.cs
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\App.g.cs
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\AboutPage.g.i.cs
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\AboutPage.g.cs
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\MainPage.g.i.cs
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\MainPage.g.cs
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\App.xaml
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\AboutPage.xaml
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\MainPage.xaml
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\App.xbf
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\AboutPage.xbf
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\MainPage.xbf
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\XamlSaveStateFile.xml
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\LightsOut_WinStore.exe
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\LightsOut_WinStore.pdb
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\priconfig.xml
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\priconfig.xml.intermediate
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\layout.resfiles
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\layout.resfiles.intermediate
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\resources.resfiles
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\resources.resfiles.intermediate
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\pri.resfiles
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\pri.resfiles.intermediate
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\qualifiers.txt
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\qualifiers.txt.intermediate
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore\LightsOut_WinStore\obj\Debug\ProjectArchitectures.txt
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\App.g.i.cs
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\App.g.cs
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\AboutPage.g.i.cs
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\AboutPage.g.cs
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\MainPage.g.i.cs
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\MainPage.g.cs
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\App.xaml
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\AboutPage.xaml
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\App.xbf
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\AboutPage.xbf
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\XamlSaveStateFile.xml
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\LightsOut_WinStore.exe
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\LightsOut_WinStore.pdb
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\bin\Debug\App.xbf
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\bin\Debug\AboutPage.xbf
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\bin\Debug\MainPage.xbf
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\bin\Debug\LightsOut_WinStore.xr.xml
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\bin\Debug\LightsOut_WinStore.exe
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\bin\Debug\LightsOut_WinStore.pdb
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\bin\Debug\resources.pri
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\bin\Debug\AppxManifest.xml
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\bin\Debug\LightsOut_WinStore.build.appxrecipe
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\MainPage.xaml
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\MainPage.xbf
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\priconfig.xml
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\priconfig.xml.intermediate
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\layout.resfiles
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\layout.resfiles.intermediate
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\resources.resfiles
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\resources.resfiles.intermediate
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\pri.resfiles
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\pri.resfiles.intermediate
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\qualifiers.txt
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\qualifiers.txt.intermediate
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SCI207-PODIUM</Machine>
+    <WindowsUser>fmccown</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>54da7735-3e76-4bc1-bc10-fd39d14f9899</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>3243EDD838F2398B7B5C71C6649978312BC8E65F7B87DEF7146EFB24BC1100F8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>54da7735-3e76-4bc1-bc10-fd39d14f9899_1.0.0.0_neutral__85fmfke10xj12</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>54da7735-3e76-4bc1-bc10-fd39d14f9899_85fmfke10xj12!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>54da7735-3e76-4bc1-bc10-fd39d14f9899</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=FMCCOWN</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-05T21:33:02.836</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\bin\Debug\LightsOut_WinStore.exe">
+      <PackagePath>LightsOut_WinStore.exe</PackagePath>
+      <Modified>2015-11-11T22:16:12.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\Assets\halloween.jpg">
+      <PackagePath>Assets\halloween.jpg</PackagePath>
+      <Modified>2014-10-29T18:27:58.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\Assets\mccown.jpg">
+      <PackagePath>Assets\mccown.jpg</PackagePath>
+      <Modified>2014-10-29T18:23:30.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\Assets\lightbulb.png">
+      <PackagePath>Assets\lightbulb.png</PackagePath>
+      <Modified>2015-11-05T21:32:45.046</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T12:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-29T18:12:02.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-05T21:18:49.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T12:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-10-28T21:10:48.847</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-11-04T19:40:28.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\bin\Debug\AboutPage.xbf">
+      <PackagePath>AboutPage.xbf</PackagePath>
+      <Modified>2015-11-04T19:40:28.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-11-05T21:48:58.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\bin\Debug\LightsOut_WinStore.xr.xml">
+      <PackagePath>LightsOut_WinStore.xr.xml</PackagePath>
+      <Modified>2015-11-05T21:42:38.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fmccown\Documents\Visual Studio 2013\Projects\LightsOut_WinStore - CommandBar\LightsOut_WinStore\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-11-05T21:33:02.610</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
